@@ -1,4 +1,4 @@
-# Multi-Thread Server-Practice
+# Multi-Thread Server Practice
 A simple multithread server practice in java. Modified to use threadpool.
 
 ## Prerequisites
