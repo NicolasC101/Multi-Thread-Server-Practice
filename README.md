@@ -1,10 +1,5 @@
-# Multi-Thread-Server-Practice
-A simple multithread server practice. Modified to use threadpool.
-
-
-# Web Server in Java
-
-This project is a simple multithreaded web server implemented in Java.
+# Multi-Thread Server-Practice
+A simple multithread server practice in java. Modified to use threadpool.
 
 ## Prerequisites
 
