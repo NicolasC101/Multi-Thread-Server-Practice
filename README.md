@@ -31,6 +31,11 @@ Once the server is running, you can test it using a web browser or `curl`:
 ```sh
 curl http://localhost:6789
 ```
+or simply
+
+```sh
+http://localhost:6789
+```
 
 You should see the HTTP request logged in the console.
 
